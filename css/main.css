@@ -31,3 +31,16 @@ p {
     outline-width: 3px;
     outline-color: black;
 }
+
+input{
+    padding: 5px;;
+    text-align: center;
+    margin: 3px;
+    border-width: 2px;
+    border-color: rgb(43, 255, 0);
+    border-style: solid ;
+    border-radius: 94px;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: black;
+}
