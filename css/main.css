@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+    background-image: url(../img/matrix-code-animation-gif-free-animated-background.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+p {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    border-width: 2px;
+    border-color: rgb(43, 255, 0);
+    border-style: solid ;
+    border-radius: 94px;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: black;
+}
+
+.form{
+    padding: 30px;;
+    text-align: center;
+    margin: auto;
+    border-width: 2px;
+    border-color: rgb(43, 255, 0);
+    border-style: solid ;
+    border-radius: 94px;
+    outline-style: solid;
+    outline-width: 3px;
+    outline-color: black;
+}
